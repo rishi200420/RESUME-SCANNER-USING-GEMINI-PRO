@@ -1,0 +1,3 @@
+Get a New API Key : Go to Google AI Studio:
+👉 https://aistudio.google.com/app/apikey  
+Create a New api key ,Copy and paste in : genai.configure(api_key="ADD your api key")  
