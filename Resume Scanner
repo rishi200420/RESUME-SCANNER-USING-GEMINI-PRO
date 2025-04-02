@@ -1,0 +1,11 @@
+Requirement:
+Configure Google Gemini API
+Function to extract text from PDF
+Function to analyze resume with Gemini
+Function to extract keywords from text
+Function to score resume based on job description
+Streamlit UI
+Streamlit UI
+Field to input Job Description
+Prompt Template Selection
+Display results
